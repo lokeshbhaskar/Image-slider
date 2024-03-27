@@ -1,2 +1,2 @@
 # Image-slider
-My image slider project
+My first image slider project
